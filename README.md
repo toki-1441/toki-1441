@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hi I'm toki!
+I am a member of the research lab **iASL** where we study autonomous driving.
+## Skills
+
+- **Languages**: Python, C++, Javascript, Rust
+- **Tools**: Git, Docker, VS Code
+
+## Projects
+<WIP>
+
+## My research!!
+<WIP>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=toki-1441&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=toki-1441&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=toki-1441&theme=juicyfresh&no-bg=true" />
 
 <!--
 **toki-1441/toki-1441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
